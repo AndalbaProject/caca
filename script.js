@@ -5,7 +5,7 @@
 const CONFIG = {
   age: 21,
   // password = tanggal lahir, 6 digit (mis. 27 Januari 2007 -> "270107")
-  password: "110525",
+  password: "110526",
 
   // playlist
   playlistName: "for u",
